@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poster presentation | Chuande Liu</title>
+    <link>https://chuande-liu.github.io/category/poster-presentation/</link>
+      <atom:link href="https://chuande-liu.github.io/category/poster-presentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Poster presentation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Nov 2020 05:34:40 +0000</lastBuildDate>
+    <image>
+      <url>https://chuande-liu.github.io/media/avatar.jpg</url>
+      <title>Poster presentation</title>
+      <link>https://chuande-liu.github.io/category/poster-presentation/</link>
+    </image>
+    
+    <item>
+      <title>iSPEC 2020, Chengdu, China</title>
+      <link>https://chuande-liu.github.io/post/ispec-2020-chengdu/</link>
+      <pubDate>Mon, 23 Nov 2020 05:34:40 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/post/ispec-2020-chengdu/</guid>
+      <description>&lt;p&gt;Our paper at &lt;a href=&#34;http://ieee-spec.csee.org.cn/2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iSPEC 2020&lt;/a&gt; entitled &amp;ldquo;A Self-Constructed CNN Classifier for Keyhole Detection and Location&amp;rdquo; is soon online.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

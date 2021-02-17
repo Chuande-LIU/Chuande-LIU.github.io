@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Chuande Liu</title>
+    <link>https://chuande-liu.github.io/post/</link>
+      <atom:link href="https://chuande-liu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Nov 2020 05:34:40 +0000</lastBuildDate>
+    <image>
+      <url>https://chuande-liu.github.io/media/avatar.jpg</url>
+      <title>Posts</title>
+      <link>https://chuande-liu.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>iSPEC 2020, Chengdu, China</title>
+      <link>https://chuande-liu.github.io/post/ispec-2020-chengdu/</link>
+      <pubDate>Mon, 23 Nov 2020 05:34:40 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/post/ispec-2020-chengdu/</guid>
+      <description>&lt;p&gt;Our paper at &lt;a href=&#34;http://ieee-spec.csee.org.cn/2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iSPEC 2020&lt;/a&gt; entitled &amp;ldquo;A Self-Constructed CNN Classifier for Keyhole Detection and Location&amp;rdquo; is soon online.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stay strong, China! 2020</title>
+      <link>https://chuande-liu.github.io/post/stay-strong-china-2020/</link>
+      <pubDate>Sun, 23 Feb 2020 05:34:40 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/post/stay-strong-china-2020/</guid>
+      <description>&lt;p&gt;During my leisure time, I joined a running club called Running Panda, Paris&amp;rsquo;s largest Chinese running club in France.
+Our club spontaneously organized a Marathon 34 km tour de Paris to cheer up for Chinese Fighting COVID-19!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome Day of the Doctoral School of Institut Polytechnique de Paris, France, 2019</title>
+      <link>https://chuande-liu.github.io/post/welcome-day-of-the-doctoral-school-of-institut-polytechnique-de-paris-france-2019/</link>
+      <pubDate>Tue, 10 Dec 2019 07:03:04 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/post/welcome-day-of-the-doctoral-school-of-institut-polytechnique-de-paris-france-2019/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.ip-paris.fr/en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Institut Polytechnique de Paris&lt;/a&gt; (&lt;a href=&#34;https://cwur.org/2020-21.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Rank: 35&lt;/a&gt; in CWUR 2020-21) is a public higher education and research institution comprising five prestigious French engineering Schools in 2019:
+École Polytechnique, ENSTA Paris, ENSAE Paris, Télécom Paris and Télécom SudParis. Under the aegis of the Institute,
+they bring together two centuries of expertise to pursue two major goals: to develop world-class training programs and cutting edge research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IEEE-CYBER 2019, Suzhou, China</title>
+      <link>https://chuande-liu.github.io/post/ieee-cyber-2019-suzhou/</link>
+      <pubDate>Tue, 30 Jul 2019 07:05:10 +0000</pubDate>
+      <guid>https://chuande-liu.github.io/post/ieee-cyber-2019-suzhou/</guid>
+      <description>&lt;p&gt;I presented an oral at the 9th IEEE International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (&lt;a href=&#34;https://www.ieee-cyber.org/2019/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE-CYBER
+2019&lt;/a&gt;) and got the finalist of best student paper reward. Great conference!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
